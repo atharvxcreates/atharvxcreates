@@ -24,18 +24,19 @@
 
 <h3 align="center">✦ &nbsp;A B O U T &nbsp; M E&nbsp; ✦</h3>
 
-```js
-const atharv = {
-  location:   "Faridabad, India 🇮🇳",
-  college:    "Maharaja Surajmal Institute of Technology (MSIT), GGSIPU",
-  degree:     "B.Tech in Information Technology (2025 – 2029)",
-  aiming:     "A software developer who builds apps end to end",
-  learning:   ["Data Structures & Algorithms", "OOP in C++", "Building real projects"],
-  lookingFor: "Internship opportunities in software development 🔍",
-  dreams:     "Travel vlogging ✈️ and learning languages from around the world 🗣️",
-  funFact:    "I edit videos, play football, and I care a lot about making things genuinely easy to use ⚽🎬"
-};
-```
+<div align="center">
+
+Hey, I'm **Atharv**, a second-year B.Tech Information Technology student at Maharaja Surajmal Institute of Technology (MSIT), GGSIPU.
+
+I'm working towards becoming a software developer who builds creative apps that make life easier for people, and I'm looking for internship opportunities in software development.
+
+When I'm not coding, I edit videos, play football, and care a lot about making things genuinely easy to use. ⚽🎬
+
+<br/>
+
+📍 Faridabad, India &nbsp;•&nbsp; 🎓 B.Tech IT (2025 – 2029) &nbsp;•&nbsp; 🔍 Open to internships
+
+</div>
 
 <br/>
 
@@ -46,11 +47,10 @@ const atharv = {
 
 | | |
 |---|---|
-| 🌱 **Learning** | Software development end to end, following the [roadmap.sh](https://roadmap.sh/full-stack) path section by section |
-| 🛠️ **Building** | 1–2 small projects after every section, then one big project that combines everything |
+| 🌱 **Learning** | Software development end to end: strong programming fundamentals, problem solving, and how real apps come together |
+| 🛠️ **Building** | 1–2 small projects after each new concept, then one big project that brings everything together |
 | 🧩 **Practicing** | DSA in C++ alongside my college curriculum |
-| 🎯 **Goal** | To become a software developer who builds apps end to end and makes something really creative |
-| ✈️ **Dreaming of** | Becoming a travel vlogger 🎥 and learning languages from different countries 🗣️ |
+| 🎯 **Goal** | To become a software developer who builds creative apps end to end that make life easier for people. Beyond code, I want to explore the world as a travel vlogger 🎥 and keep learning new languages 🗣️ |
 
 <br/>
 
